@@ -7,7 +7,7 @@
     "argparse": "^2.0.1",
     "express": "^4.17.1",
     "express-ws": "^5.0.2",
-    "open": "^8.4.0",
+    "open": "^9.1.0",
     "pug": "^3.0.2"
   },
   "devDependencies": {
